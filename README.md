@@ -18,11 +18,11 @@ This project analyzes text-based chat data to extract meaningful insights, inclu
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/soumyathatipamula/chat_analysis.git
+    git clone https://github.com/Sainithinkadarla/NLP_project.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd chat_analysis
+    cd NLP_project
     ```
 3. Install the required dependencies:
     ```bash
